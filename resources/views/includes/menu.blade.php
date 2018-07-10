@@ -12,6 +12,9 @@
             <li class="nav-item">
                 <a class="nav-link" href="about">About</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="contact">Contact</a>
+            </li>
         </ul>
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
